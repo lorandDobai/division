@@ -53,6 +53,7 @@ html, body {
 
 .dv-footer > div > a {
     cursor: pointer;
+    text-decoration: none;
 }
 
 .dv-excited-text {
